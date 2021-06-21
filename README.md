@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- My name is Ruhee, an aspiring front end developer and I have a B.A in Computer Science and Economics. I am originally from Kathmandu, currently based in MA, USA.
 - 🔭 I’m currently working on my Portfolio website.
 - 🌱 I’m currently learning Python for Data Analytics, and utilising Data Visualisation Tools, as well as exploring React's Libraries such as GraphQL. 
 - 👯 I’m looking to collaborate on open source projects.
