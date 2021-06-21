@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
-    - :e-mail: [Email](sruhee98@gmail.com)
-    - :office: [Linkedin](linkedin.com/in/ruhee-shrestha)
-    - :computer:[Portfolio Website](ruhees-dev.netlify.app)
+    - :e-mail: [Email](http://sruhee98@gmail.com)
+    - :office: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
+    - :computer:[Portfolio Website](http://ruhees-dev.netlify.app)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
     - I love :movie_camera: cinema, 🎵 music, cooking.
