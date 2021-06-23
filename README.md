@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-- My name is Ruhee, an aspiring front end developer and I have a B.A in Computer Science and Economics. 
-- I am originally from Kathmandu, currently based in Boston, US.
+- My name is Ruhee, an aspiring front end developer / data analyst.
+- I have a B.A in Computer Science and Economics. 
+- I am originally from Kathmandu, currently based in Boston, MA.
 - 🔭 I’m currently working on my Portfolio website.
-- 🌱 I’m currently learning Python for Data Analytics, and utilising Data Visualisation Tools, as well as exploring React's Libraries such as GraphQL. 
+- 🌱 I’m currently learning Python for Data Analytics, and utilising Data Visualisation Tools. 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
-    - :e-mail: [Email](http://sruhee98@gmail.com)
+    - :e-mail: [Email](http://mailto:sruhee98@gmail.com)
     - :office: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
     - :computer:[Portfolio Website](http://ruhees-dev.netlify.app)
 - 😄 Pronouns: she/her
