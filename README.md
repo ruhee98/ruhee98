@@ -3,7 +3,7 @@
 - My name is Ruhee, an aspiring front end developer / data analyst.
 - I have a B.A in Computer Science and Economics. 
 - I am originally from Kathmandu, currently based in Boston, MA.
-- 🔭 I’m currently working on my Portfolio website.
+- 🔭 I’m currently working on building e-commerce website with Shopify.
 - 🌱 I’m currently learning Python for Data Analytics, and utilising Data Visualisation Tools. 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about my projects, tips, etc.
