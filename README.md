@@ -10,7 +10,7 @@
 - 📫 How to reach me: 
     - :e-mail: [Email](http://mailto:sruhee98@gmail.com)
     - :office: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
-    - :computer:[Portfolio Website](http://ruhees-dev.netlify.app)
+    - :computer:[Portfolio Website](http://ruhee-s.dev)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
     - I love :movie_camera: cinema, 🎵 music, cooking.
