@@ -4,7 +4,7 @@
 - I have a B.A in Computer Science and Economics. 
 - I am originally from Kathmandu, currently based in Boston, MA.
 - 🔭 I’m currently working on building small projects in python.
-- 🌱 I’m currently learning Python for Data Analytics, and utilising Data Visualisation Tools. 
+- 🌱 I’m currently learning Python for Data Analytics and automating tasks. 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
