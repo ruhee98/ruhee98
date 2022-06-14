@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- My name is Ruhee, an aspiring front end developer / data analyst.
+- My name is Ruhee, an aspiring data engineer/ data analyst.
 - I have a B.A in Computer Science and Economics. 
 - I am originally from Kathmandu, currently based in Boston, MA.
-- 🔭 I’m currently a Data Engineer at a start up.
-- 🌱 I’m currently working on gaining a AWS certification. 
-- 👯 I’m looking for new job opportunities related to data analysis and data engineering roles.
+- 🔭 I’m currently a Data Engineer at a start up, specializing in python and SQL.
+- 🌱 I’m currently working on gaining a AWS certification, and learning about ML and NLP models. 
+- 👯 I’m looking for new job opportunities related to data analysis and data engineering roles in AWS environment.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
     - :e-mail: [Email](http://mailto:sruhee98@gmail.com)
