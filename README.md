@@ -3,9 +3,9 @@
 - My name is Ruhee, an aspiring front end developer / data analyst.
 - I have a B.A in Computer Science and Economics. 
 - I am originally from Kathmandu, currently based in Boston, MA.
-- 🔭 I’m currently working on building data visualization projects in python, and working with APIs.
-- 🌱 I’m currently learning Python for Data Analytics and automating tasks. 
-- 👯 I’m looking to collaborate on open source projects.
+- 🔭 I’m currently a Data Engineer at a start up.
+- 🌱 I’m currently working on gaining a AWS certification. 
+- 👯 I’m looking for new job opportunities related to data analysis and data engineering roles.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
     - :e-mail: [Email](http://mailto:sruhee98@gmail.com)
