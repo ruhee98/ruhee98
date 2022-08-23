@@ -4,7 +4,7 @@
 - I have a B.A in Computer Science and Economics. 
 - I am originally from Kathmandu, currently based in Boston, MA.
 - 🔭 I’m currently a Data Engineer at a start up, specializing in python and SQL.
-- 🌱 I’m currently working on gaining a AWS certification, and learning about ML and NLP models. 
+- 🌱 I’m currently learning about big data frameworks such as Spark, and data orchestration tools such as Airflow. 
 - 👯 I’m looking for new job opportunities related to data analysis and data engineering roles in AWS environment.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
