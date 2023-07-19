@@ -3,10 +3,10 @@
 - My name is Ruhee, an aspiring data engineer/ data analyst.
 - I have a B.A in Computer Science and Economics. 
 - I am originally from Kathmandu, currently based in Boston, MA.
-- 🔭 I’m an aspiring a Data Analyst/Engineer. 
-- I have worked as a Software Engineer at a healthcare based SaaS providing start up, specializing in Python and SQL.
-- 🌱 I’m currently learning about big data frameworks such as Spark, and data orchestration tools such as Airflow. 
-- 👯 I’m looking for new job opportunities related to data analysis and data engineering roles in AWS environment.
+- I have worked as a Data Engineer at a healthcare based SaaS providing start up, specializing in processing data using Spark, and     
+   manipulating data using Python and SQL.
+- 🌱 I’m currently working on getting certified as an Azure Data Engineer Associate. 
+- 👯 I’m looking for new job opportunities related to analytical/data engineering roles in AWS/Azure environment.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
     - :e-mail: [Email](http://mailto:sruhee98@gmail.com)
