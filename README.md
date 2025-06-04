@@ -7,7 +7,7 @@
 - 👯 I’m looking for new job opportunities/internships related to analytical/data engineering roles.
 - 💬 Ask me about my projects, tips, etc.
 - 📫 How to reach me: 
-    - :e-mail: [Email](http://mailto:sruhee98@gmail.com)
+    - :e-mail: [Email](http://mailto:rshrestha@wpi.edu)
     - :office: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
