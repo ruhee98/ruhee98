@@ -1,4 +1,4 @@
-### Hi there, I’m Ruhee!
+## Hi there, I’m Ruhee!
 
 I’m currently pursuing my Master’s in Business Analytics at WPI, building on my background in Computer Science and Economics from Augustana College, IL. Originally from Kathmandu and now based in Boston, I enjoy working at the intersection of engineering, analytics, and storytelling — whether that’s designing data pipelines, writing about modern data architectures, or experimenting with new tools that bring data to life.
 
@@ -8,11 +8,11 @@ Outside of work and school, I’m a huge fan of independant films 🎬, love wat
 
 📫 Feel free to connect with me:
 
-:e-mail: [Email](http://mailto:rshrestha@wpi.edu)
-:office: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
-:medium: [Medium](https://medium.com/@sruhee98)
+- :e-mail: [Email](http://mailto:rshrestha@wpi.edu)
+- :office: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
+- :medium: [Medium](https://medium.com/@sruhee98)
 
-Featured Projects & Technical Content Writing:
+## Featured Projects & Technical Content Writing:
 
 1. [NYC Taxi Demand Forecasting](https://github.com/ruhee98/NYC_Taxi_Demand_Forecasting)
 2. [Predicting Purchase Intent of Customers for Targeted Marketing Using Clickstream Data](https://github.com/ruhee98/MIS587_BAML_Final_Project)
@@ -21,5 +21,4 @@ Featured Projects & Technical Content Writing:
 5. [MongoDB to ClickHouse for E-commerce Analytics](https://estuary.dev/blog/mongodb-to-clickhouse-ecommerce-analytics/)
 6. [Flight Traffic Analytics with Estuary + StarTree](https://estuary.dev/blog/flight-traffic-analytics-estuary-startree/)
 7. [Real-Time Monitoring with Databricks](https://estuary.dev/blog/shopify-to-snowflake-integration/)
-
 
