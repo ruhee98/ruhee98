@@ -8,9 +8,9 @@ Outside of work and school, I’m a huge fan of independant films 🎬, love wat
 
 📫 Feel free to connect with me:
 
-- :e-mail: [Email](http://mailto:rshrestha@wpi.edu)
-- :office: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
-- :medium: [Medium](https://medium.com/@sruhee98)
+- 📧: [Email](http://mailto:rshrestha@wpi.edu)
+- 🏢: [Linkedin](http://linkedin.com/in/ruhee-shrestha)
+- ✍️: [Medium](https://medium.com/@sruhee98)
 
 ## Featured Projects & Technical Content Writing:
 
